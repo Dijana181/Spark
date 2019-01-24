@@ -1,3 +1,0 @@
-Student,Marks,Organisation
-Shafeeq,70,ONS
-Dijan,80,BBC
